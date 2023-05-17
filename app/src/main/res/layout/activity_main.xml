@@ -38,7 +38,6 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="Submit"
-        android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
@@ -52,7 +51,7 @@
         android:background="#FFEB3B"
         android:text="Enter the Kg Value Below"
         android:textColor="@color/purple_700"
-        android:textSize="25sp"
+        android:textSize="27sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/editText"
         app:layout_constraintEnd_toEndOf="parent"
@@ -61,8 +60,8 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="391dp"
-        android:layout_height="427dp"
+        android:layout_width="395dp"
+        android:layout_height="429dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
